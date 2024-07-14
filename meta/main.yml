@@ -27,14 +27,14 @@ galaxy_info:
   # To view available platforms and versions (or releases), visit:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
-   platforms:
-  # - name: Fedora
-  #   versions:
-  #   - all
-  #   - 25
-   - name: Ubuntu 
+  platforms:
+   - name: Fedora
      versions:
      - all
+  #   - 25
+  #- name: Ubuntu 
+  #   versions:
+  #   - all
   #   - 1.0
   #   - 7
   #   - 99.99
